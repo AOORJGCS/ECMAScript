@@ -1,0 +1,21 @@
+{
+  "name": "H5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "amfe-flexible": "^2.2.1",
+    "touchjs": "^0.2.14"
+  },
+  "devDependencies": {
+    "animate.css": "^3.7.2",
+    "iscroll": "^5.2.0",
+    "swiper": "^5.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
